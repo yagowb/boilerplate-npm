@@ -4,6 +4,7 @@
 	"description": "Um projeto para estudo de Backend",
 	"keywords": ["freecodecamp", "backend", "study", "code", "api", "nodejs"],
 	"license": "UNIFOR",
+	"version": "1.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
