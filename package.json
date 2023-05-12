@@ -5,9 +5,13 @@
 	"keywords": ["freecodecamp", "backend", "study", "code", "api", "nodejs"],
 	"license": "UNIFOR",
 	"version": "1.0",
+
 	"dependencies": {
-		"express": "^4.14.0"
+	"package-name": "version",
+	"express": "4.14.0",
+	"@freecodecamp/example": "1.2.13"
 	},
+
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
